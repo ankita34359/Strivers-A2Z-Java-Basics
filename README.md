@@ -4,7 +4,7 @@
 This repository covers **Java fundamentals** as explained in the **Striver's A2Z DSA Course** available at [Take U Forward](https://takeuforward.org/). It serves as a structured resource for mastering Java basics required for Data Structures and Algorithms.
 
 Each topic includes:
-- **Concept Explanation**
+
 - **Code Implementation** (in Java)
 - **Example Problems & Solutions**
 - **Time Complexity Analysis** (where applicable)
@@ -16,15 +16,15 @@ Each topic includes:
 Strivers-A2Z-Java-Basics/
 │── 01_InputOutput/
 │   ├── ReadWrite.java   # Java Code for Input/Output
-│   ├── notes.md         # Explanation & Examples
+│   ├── Code.md         # Explanation & Examples
 │
 │── 02_DataTypes/
 │   ├── DataTypes.java   # Java Code for Data Types
-│   ├── notes.md         # Explanation & Examples
+│   ├── Code.md         # Explanation & Examples
 │
 │── 03_IfElse_Switch/
 │   ├── Conditions.java  # Java Code for If-Else & Switch
-│   ├── notes.md         # Explanation & Examples
+│   ├── Code.md         # Explanation & Examples
 │
 │── 04_Arrays/
 │   ├── Arrays.java      # Java Code for Arrays
@@ -32,15 +32,15 @@ Strivers-A2Z-Java-Basics/
 │
 │── 05_Strings/
 │   ├── Strings.java     # Java Code for Strings
-│   ├── notes.md         # Explanation & Examples
+│   ├── Code.md         # Explanation & Examples
 │
 │── 06_Loops/
 │   ├── Loops.java       # Java Code for Loops (For/While)
-│   ├── notes.md         # Explanation & Examples
+│   ├── Code.md         # Explanation & Examples
 │
 │── 07_TimeComplexity/
 │   ├── Complexity.java  # Java Code for Time Complexity
-│   ├── notes.md         # Explanation & Examples
+│   ├── Code.md         # Explanation & Examples
 │
 │── README.md
 ```
@@ -52,21 +52,11 @@ Strivers-A2Z-Java-Basics/
    git clone https://github.com/ankita34359/Strivers-A2Z-Java-Basics.git
    ```
 2. Navigate to the respective topic folder.
-3. Review the explanation in `notes.md`.
+3. Review the explanation in `Code.md`.
 4. Run the Java code in your preferred IDE (IntelliJ, Eclipse, VS Code, etc.).
 5. Understand time complexity where applicable.
 
 ---
-
-## 💡 Why This Repository?
-- Provides **structured learning** for Java basics.
-- Helps in **Java coding practice** for DSA preparation.
-- Saves time with **well-documented solutions**.
-- Encourages **hands-on coding** to strengthen concepts.
-
----
-
-
 
 ## ⭐ Support & Connect
 
