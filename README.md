@@ -66,27 +66,13 @@ Strivers-A2Z-Java-Basics/
 
 ---
 
-## 📢 Contribution Guidelines
-Want to contribute? Follow these steps:
-1. Fork the repository.
-2. Add your optimized/better solutions while following the folder structure.
-3. Ensure code is well-commented and follows clean coding practices.
-4. Create a pull request with a meaningful description.
 
----
-
-## 🔗 Useful References
-- **Striver’s A2Z DSA Course**: [Take U Forward](https://takeuforward.org/)
-- **Java Documentation**: [Oracle Java Docs](https://docs.oracle.com/en/java/)
-- **Leetcode / CodeStudio / GFG for practice**
-
----
 
 ## ⭐ Support & Connect
+
 If you find this repository helpful, consider starring 🌟 it on GitHub!
 
 📌 Follow me on GitHub: [Ankita34359](https://github.com/ankita34359)  
-📧 Feel free to reach out via issues or discussions!
 
 Happy Coding! 🚀
 
